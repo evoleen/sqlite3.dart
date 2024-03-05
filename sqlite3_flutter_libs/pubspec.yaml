@@ -18,10 +18,6 @@ flutter:
       android:
         package: eu.simonbinder.sqlite3_flutter_libs
         pluginClass: Sqlite3FlutterLibsPlugin
-      ios:
-        pluginClass: Sqlite3FlutterLibsPlugin
-      macos:
-        pluginClass: Sqlite3FlutterLibsPlugin
       linux:
         pluginClass: Sqlite3FlutterLibsPlugin
       windows:
